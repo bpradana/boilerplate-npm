@@ -14,5 +14,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Bintang Pradana Erlangga Putra"
+	"author": "Bintang Pradana Erlangga Putra",
+  "description": "Latihan Freecodecamp"
 }
