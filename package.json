@@ -1,8 +1,5 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -18,5 +15,8 @@
   "description": "Latihan Freecodecamp",
   "keywords": ["belajar", "npm", "node", "freecodecamp"],
   "license": "MIT",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "moment": "2.14.0"
+  }
 }
