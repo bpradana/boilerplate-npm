@@ -17,5 +17,6 @@
 	"author": "Bintang Pradana Erlangga Putra",
   "description": "Latihan Freecodecamp",
   "keywords": ["belajar", "npm", "node", "freecodecamp"],
-  "license": "MIT"
+  "license": "MIT",
+  "version": "1.0.0"
 }
