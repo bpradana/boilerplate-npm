@@ -12,11 +12,17 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Bintang Pradana Erlangga Putra",
-  "description": "Latihan Freecodecamp",
-  "keywords": ["belajar", "npm", "node", "freecodecamp"],
-  "license": "MIT",
-  "version": "1.0.0",
-  "dependencies": {
-    "moment": "2.10.2"
-  }
+	"description": "Latihan Freecodecamp",
+	"keywords": [
+		"belajar",
+		"npm",
+		"node",
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "1.0.0",
+	"dependencies": {
+		"express": "^4.17.1",
+		"moment": "~2.10.2"
+	}
 }
